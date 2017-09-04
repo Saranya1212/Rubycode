@@ -1,0 +1,2 @@
+# Rubycode
+Ruby basic code
