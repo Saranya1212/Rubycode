@@ -1,2 +1,3 @@
 # Rubycode
-Ruby basic code
+Ruby basic icode
+i have edited
